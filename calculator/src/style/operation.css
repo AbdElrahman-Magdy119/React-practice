@@ -1,0 +1,33 @@
+.div{
+    border: 1px solid gray;
+    width: 420px;
+    height: 270px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 7px;
+    background-color: gray;
+}
+
+.button{
+    margin: 15px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    width: 70px;
+    height: 25px;
+    background-color: chocolate;
+    color: midnightblue;
+}
+.but{
+    margin: 15px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    width: 130px;
+    height: 25px;
+    background-color: chocolate;
+    color: midnightblue;
+    margin-left: 130px;
+    margin-top: 10px;
+}

@@ -1,0 +1,11 @@
+.but{
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    width: 130px;
+    height: 25px;
+    background-color: chocolate;
+    color: midnightblue;
+    margin-left: 130px;
+    margin-top: 10px;
+}
